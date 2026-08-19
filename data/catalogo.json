@@ -6,7 +6,8 @@
     "title": "Slovenia Autunnale",
     "subtitle": "Tour di gruppo nelle Alpi Giulie",
     "image": "/images/tours/slovenia-e-laghi-turchesi-1024x576.webp",
-    "alt": "qualcosa", "dates": [
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-09-1",
         "statusHistory": [
@@ -38,7 +39,8 @@
     "title": "Escursione sul Cedrino",
     "subtitle": "Giornata in barca",
     "image": "images/tours/CEDRINO-4-768x1024.webp",
-    "alt": "qualcosa", "dates": [
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-07-25",
         "statusHistory": [
@@ -102,7 +104,7 @@
     "duration": "3 giorni",
     "price": 540,
     "accompagnatore": "AMS Staff",
-    "category": ["isole-gemelle"],
+    "category": ["sardegna-corsica"],
     "countries": ["Francia"],
     "area": "Corsica",
     "shortDescription": "Un tour breve ma intenso tra mare cristallino e borghi storici.",
@@ -149,8 +151,9 @@
     "slug": "toscana-tour",
     "title": "Toscana Classica",
     "subtitle": "Arte e colline",
-    "image": "/images/tours/ffccChianti_cover.jpg",
-    "alt": "qualcosa", "dates": [
+    "image": "/images/tours/Chianti.jpg",
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-08-15",
         "statusHistory": [
@@ -176,7 +179,8 @@
     "title": "Golfo di Orosei",
     "subtitle": "Cale, mare e grotte",
     "image": "/images/tours/orosei.webp",
-    "alt": "qualcosa", "dates": [
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-09-04",
         "statusHistory": [
@@ -202,7 +206,8 @@
     "title": "Sardegna & Corsica Mini Tour",
     "subtitle": "2 giorni tra due isole",
     "image": "/images/tours/corsica-8004248_1280.jpg",
-    "alt": "qualcosa", "dates": [
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-08-28",
         "statusHistory": [
@@ -213,13 +218,13 @@
     "duration": "2 giorni",
     "price": 260,
     "accompagnatore": "AMS Staff",
-    "category": ["escursione-locale", "isole-gemelle"],
+    "category": ["escursione-locale", "sardegna-corsica"],
     "countries": ["Italia", "Francia"],
-    "area": "Isole Gemelle",
+    "area": "Sardegna-Corsica",
     "shortDescription": "Un mini tour tra Sardegna e Corsica.",
     "longDescription": "Due giorni tra Santa Teresa, Bonifacio e le Bocche di Bonifacio.",
     "fullDescription": "Un’esperienza compatta che collega due isole vicine ma profondamente diverse, tra borghi pittoreschi, scogliere imponenti e acque trasparenti. Il tour alterna navigazione, visite guidate e momenti di relax, offrendo un assaggio intenso e ben organizzato di entrambe le destinazioni. Perfetto per chi vuole vivere un’avventura breve ma ricca.",
-    "link": "/packages/isole-gemelle-mini"
+    "link": "/packages/sardegna-corsica-mini"
   },
 
   {
@@ -228,7 +233,8 @@
     "title": "Trekking nel Supramonte",
     "subtitle": "Giornata di avventura",
     "image": "/images/tours/supramonte.jpg",
-    "alt": "qualcosa", "dates": [
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-07-22",
         "statusHistory": [
@@ -254,7 +260,8 @@
     "title": "Thailandia Tropicale",
     "subtitle": "Bangkok, Chiang Mai e Phi Phi",
     "image": "/images/tours/thai.jpg",
-    "alt": "qualcosa", "dates": [
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-11-05",
         "statusHistory": [
@@ -280,7 +287,8 @@
     "title": "Cina Classica",
     "subtitle": "Pechino, Xi’an e Shanghai",
     "image": "/images/tours/cina.webp",
-    "alt": "qualcosa", "dates": [
+    "alt": "qualcosa", 
+    "dates": [
       {
         "date": "2026-09-10",
         "statusHistory": [
