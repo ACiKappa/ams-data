@@ -1,4 +1,4 @@
-# Aggiornamento Catalogo Escursioni
+# Catalogo Escursioni
 
 Questo repository contiene esclusivamente dati (in formato JSON) utilizzati dal sito AMS-clone.
 Il progetto è sviluppato con Astro e CSS puro, e include un design system artigianale in fase di costruzione. 
