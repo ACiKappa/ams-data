@@ -1,4 +1,3 @@
-
 [
   {
     "id": "slovenia2026",
@@ -6,113 +5,163 @@
     "title": "Slovenia Autunnale",
     "subtitle": "Tour di gruppo nelle Alpi Giulie",
     "image": "/images/tours/slovenia-e-laghi-turchesi-1024x576.webp",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
-        "date": "2026-09-1",
+        "date": "2026-09-01",
         "statusHistory": [
-          { "status": "open", "at": "2026-02-20" }
+          {
+            "status": "open",
+            "at": "2026-02-20"
+          }
         ]
       },
       {
         "date": "2026-09-10",
         "statusHistory": [
-          { "status": "open", "at": "2026-02-20" }
+          {
+            "status": "open",
+            "at": "2026-02-20"
+          }
         ]
       }
     ],
     "duration": "6 giorni",
     "price": 1680,
     "accompagnatore": "Franco",
-    "category": ["viaggio-di-gruppo"],
-    "countries": ["Slovenia", "Austria", "Italia"],
+    "category": [
+      "internazionale",
+      "viaggio-di-gruppo"
+    ],
+    "countries": [
+      "Slovenia",
+      "Austria",
+      "Italia"
+    ],
     "area": "Europa",
     "shortDescription": "Un'avventura fiabesca tra Slovenia, Austria e Italia, nel cuore delle Alpi Giulie.",
     "longDescription": "Un'avventura fiabesca tra Slovenia, Austria e Italia, nel cuore pulsante delle Alpi Giulie: dalla vivace Lubiana ai laghi alpini di Bohinj e Fusine.",
     "fullDescription": "Un viaggio che attraversa tre paesi e tre paesaggi completamente diversi, dalle città eleganti alle vallate alpine più remote. Ogni giornata alterna natura, cultura e panorami spettacolari, con ritmi equilibrati e tappe selezionate per godersi ogni luogo. Un tour ideale per chi cerca un’esperienza completa, immersiva e ben organizzata.",
     "link": "https://www.amsitaly.com/packages/slovenia"
   },
-
   {
     "id": "cedrino2026",
     "slug": "escursione-cedrino",
     "title": "Escursione sul Cedrino",
     "subtitle": "Giornata in barca",
-    "image": "images/tours/CEDRINO-4-768x1024.webp",
-    "alt": "qualcosa", 
+    "image": "/images/tours/CEDRINO-4-768x1024.webp",
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-07-25",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-10" },
-          { "status": "soldOut", "at": "2026-06-20" }
+          {
+            "status": "open",
+            "at": "2026-03-10"
+          },
+          {
+            "status": "soldOut",
+            "at": "2026-06-20"
+          }
         ]
       },
-        {
+      {
         "date": "2026-08-26",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-10" },
-          { "status": "soldOut", "at": "2026-06-20" }
+          {
+            "status": "open",
+            "at": "2026-03-10"
+          },
+          {
+            "status": "soldOut",
+            "at": "2026-06-20"
+          }
         ]
       },
-        {
+      {
         "date": "2026-08-27",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-10" }        ]
+          {
+            "status": "open",
+            "at": "2026-03-10"
+          }
+        ]
       }
     ],
     "duration": "1 giorno",
     "price": 65,
     "accompagnatore": "Franco",
-    "category": ["escursione-locale"],
-    "countries": ["Italia"],
+    "category": [
+      "escursione-locale"
+    ],
+    "countries": [
+      "Italia"
+    ],
     "area": "Sardegna",
     "shortDescription": "Un'escursione guidata in barca tra canyon, grotte e sorgenti.",
     "longDescription": "Un'escursione guidata in barca alla scoperta del Cedrino, tra canyon, grotte e sorgenti naturali.",
     "fullDescription": "Una giornata immersa nella natura selvaggia del Cedrino, tra pareti rocciose, acque calme e scorci che cambiano a ogni curva del fiume. L’escursione combina relax, scoperta e racconti del territorio, rendendo l’esperienza adatta a tutti. Perfetta per chi vuole vivere un angolo autentico della Sardegna lontano dalle rotte più affollate.",
     "link": "/packages/escursione-cedrino"
   },
-
   {
     "id": "corsica2026",
     "slug": "corsica-tour",
     "title": "Mini Tour Corsica",
     "subtitle": "3 giorni tra mare e borghi",
     "image": "/images/tours/corsica-8004248_1280.jpg",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-09-22",
         "statusHistory": [
-          { "status": "open", "at": "2026-02-15" },
-          { "status": "soldOut", "at": "2026-08-19" }
+          {
+            "status": "open",
+            "at": "2026-02-15"
+          },
+          {
+            "status": "soldOut",
+            "at": "2026-08-19"
+          }
         ]
       },
       {
         "date": "2026-09-30",
         "statusHistory": [
-          { "status": "open", "at": "2026-02-15" }
+          {
+            "status": "open",
+            "at": "2026-02-15"
+          }
         ]
       },
       {
         "date": "2026-10-30",
         "statusHistory": [
-          { "status": "open", "at": "2026-02-15" }
+          {
+            "status": "open",
+            "at": "2026-02-15"
+          },
+          {
+            "status": "cancelled",
+            "at": "2026-08-19"
+          }
         ]
       }
     ],
     "duration": "3 giorni",
     "price": 540,
     "accompagnatore": "AMS Staff",
-    "category": ["sardegna-corsica"],
-    "countries": ["Francia"],
+    "category": [
+      "sardegna-corsica"
+    ],
+    "countries": [
+      "Francia"
+    ],
     "area": "Corsica",
     "shortDescription": "Un tour breve ma intenso tra mare cristallino e borghi storici.",
     "longDescription": "Un tour di 3 giorni alla scoperta della Corsica: mare cristallino, borghi storici e panorami mozzafiato.",
     "fullDescription": "Un itinerario compatto che racchiude l’essenza della Corsica: acque turchesi, scogliere imponenti e borghi sospesi tra storia e tradizioni. Ogni tappa è pensata per offrire il massimo in poco tempo, con ritmi piacevoli e soste panoramiche. Ideale per chi vuole scoprire l’isola con un’esperienza guidata e curata nei dettagli.",
     "link": "/packages/corsica"
   },
-
   {
     "id": "napoli2026",
     "slug": "napoli-tour",
@@ -120,197 +169,293 @@
     "subtitle": "Cultura, cibo e tradizioni",
     "image": "/images/tours/naples.jpg",
     "alt": "qualcosa",
-     "dates": [
+    "dates": [
       {
         "date": "2026-07-22",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-15" }
+          {
+            "status": "open",
+            "at": "2026-03-15"
+          }
         ]
       },
-         {
+      {
         "date": "2026-11-20",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-15" }
+          {
+            "status": "open",
+            "at": "2026-03-15"
+          }
         ]
       }
     ],
     "duration": "3 giorni",
     "price": 480,
     "accompagnatore": "AMS Staff",
-    "category": ["viaggio-di-gruppo"],
-    "countries": ["Italia"],
+    "category": [
+      "viaggio-di-gruppo"
+    ],
+    "countries": [
+      "Italia"
+    ],
     "area": "Italia",
     "shortDescription": "Un weekend alla scoperta di Napoli tra cultura, cibo e tradizioni.",
     "longDescription": "Un tour di 3 giorni tra i vicoli di Napoli, il lungomare, il centro storico e le sue tradizioni culinarie.",
     "fullDescription": "Un fine settimana che unisce storia millenaria, sapori autentici e scorci iconici della città. Il percorso attraversa quartieri storici, piazze vivaci e luoghi simbolo della cultura napoletana. Un’esperienza perfetta per chi vuole vivere Napoli con intensità ma senza fretta.",
     "link": "/packages/napoli"
   },
-
   {
     "id": "toscana2026",
     "slug": "toscana-tour",
     "title": "Toscana Classica",
     "subtitle": "Arte e colline",
     "image": "/images/tours/Chianti.jpg",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-08-15",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-10" }
+          {
+            "status": "open",
+            "at": "2026-03-10"
+          }
         ]
       }
     ],
     "duration": "4 giorni",
     "price": 720,
     "accompagnatore": "AMS Staff",
-    "category": ["viaggio-di-gruppo"],
-    "countries": ["Italia"],
+    "category": [
+      "viaggio-di-gruppo"
+    ],
+    "countries": [
+      "Italia"
+    ],
     "area": "Italia",
     "shortDescription": "Un viaggio tra Firenze, Siena e le colline toscane.",
     "longDescription": "Un tour di 4 giorni tra Firenze, Siena, San Gimignano e le colline del Chianti.",
     "fullDescription": "Un itinerario che attraversa alcune delle città d’arte più affascinanti d’Italia, alternando musei, borghi medievali e paesaggi collinari. Ogni giornata è pensata per offrire un equilibrio tra visite culturali e momenti di relax. Perfetto per chi ama la bellezza, la storia e la buona cucina.",
     "link": "/packages/toscana"
   },
-
   {
     "id": "orosei2026",
     "slug": "orosei-golfo",
     "title": "Golfo di Orosei",
     "subtitle": "Cale, mare e grotte",
     "image": "/images/tours/orosei.webp",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-09-04",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-05" }
+          {
+            "status": "open",
+            "at": "2026-03-05"
+          }
         ]
       }
     ],
     "duration": "1 giorno",
     "price": 95,
     "accompagnatore": "AMS Staff",
-    "category": ["escursione-locale"],
-    "countries": ["Italia"],
+    "category": [
+      "escursione-locale"
+    ],
+    "countries": [
+      "Italia"
+    ],
     "area": "Sardegna",
     "shortDescription": "Una giornata tra le cale più iconiche del Golfo di Orosei.",
     "longDescription": "Escursione in barca tra Cala Luna, Cala Mariolu e le grotte del Bue Marino.",
     "fullDescription": "Una giornata dedicata alle meraviglie del Golfo di Orosei, tra acque cristalline, spiagge bianche e grotte scolpite dal mare. L’escursione offre soste rilassanti, panorami unici e la possibilità di esplorare alcune delle cale più celebri della Sardegna. Ideale per chi cerca natura, mare e avventura.",
     "link": "/packages/orosei"
   },
-
   {
     "id": "corsica2026",
     "slug": "sardegna-corsica-mini",
     "title": "Sardegna & Corsica Mini Tour",
     "subtitle": "2 giorni tra due isole",
     "image": "/images/tours/corsica-8004248_1280.jpg",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-08-28",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-10" }
+          {
+            "status": "open",
+            "at": "2026-03-10"
+          }
         ]
       }
     ],
     "duration": "2 giorni",
     "price": 260,
     "accompagnatore": "AMS Staff",
-    "category": ["escursione-locale", "sardegna-corsica"],
-    "countries": ["Italia", "Francia"],
+    "category": [
+      "escursione-locale",
+      "sardegna-corsica"
+    ],
+    "countries": [
+      "Italia",
+      "Francia"
+    ],
     "area": "Sardegna-Corsica",
     "shortDescription": "Un mini tour tra Sardegna e Corsica.",
     "longDescription": "Due giorni tra Santa Teresa, Bonifacio e le Bocche di Bonifacio.",
     "fullDescription": "Un’esperienza compatta che collega due isole vicine ma profondamente diverse, tra borghi pittoreschi, scogliere imponenti e acque trasparenti. Il tour alterna navigazione, visite guidate e momenti di relax, offrendo un assaggio intenso e ben organizzato di entrambe le destinazioni. Perfetto per chi vuole vivere un’avventura breve ma ricca.",
     "link": "/packages/sardegna-corsica-mini"
   },
-
   {
     "id": "supramonte2026",
     "slug": "supramonte-trekking",
     "title": "Trekking nel Supramonte",
     "subtitle": "Giornata di avventura",
     "image": "/images/tours/supramonte.jpg",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-07-22",
         "statusHistory": [
-          { "status": "open", "at": "2026-03-10" }
+          {
+            "status": "open",
+            "at": "2026-03-10"
+          }
         ]
       }
     ],
     "duration": "1 giorno",
     "price": 80,
     "accompagnatore": "Franco",
-    "category": ["escursione-locale"],
-    "countries": ["Italia"],
+    "category": [
+      "escursione-locale"
+    ],
+    "countries": [
+      "Italia"
+    ],
     "area": "Sardegna",
     "shortDescription": "Un trekking guidato nel cuore selvaggio del Supramonte.",
     "longDescription": "Sentieri panoramici, canyon e sorgenti naturali nel Supramonte.",
     "fullDescription": "Un percorso immerso nella natura più autentica del Supramonte, tra vallate silenziose, pareti rocciose e sorgenti nascoste. L’escursione combina avventura, panorami e racconti del territorio, rendendola ideale per chi ama camminare e scoprire luoghi incontaminati. Un’esperienza intensa e rigenerante.",
     "link": "/packages/supramonte"
   },
-
   {
     "id": "thai2026",
     "slug": "thailandia-tour",
     "title": "Thailandia Tropicale",
     "subtitle": "Bangkok, Chiang Mai e Phi Phi",
     "image": "/images/tours/thai.jpg",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-11-05",
         "statusHistory": [
-          { "status": "open", "at": "2026-05-01" }
+          {
+            "status": "open",
+            "at": "2026-05-01"
+          }
         ]
       }
     ],
     "duration": "9 giorni",
     "price": 2480,
     "accompagnatore": "AMS Staff",
-    "category": ["internazionale", "viaggio-di-gruppo"],
-    "countries": ["Thailandia"],
+    "category": [
+      "internazionale",
+      "viaggio-di-gruppo"
+    ],
+    "countries": [
+      "Thailandia"
+    ],
     "area": "Asia",
     "shortDescription": "Templi, natura e mare tropicale.",
     "longDescription": "Bangkok vibrante, Chiang Mai spirituale e le spiagge di Phi Phi.",
     "fullDescription": "Un viaggio che unisce spiritualità, natura e mare tropicale, attraversando alcune delle destinazioni più iconiche della Thailandia. Il percorso alterna città vivaci, templi antichi e isole da cartolina, con ritmi equilibrati e momenti di relax. Perfetto per chi cerca un’esperienza completa e ricca di emozioni.",
     "link": "/packages/thailandia"
   },
-
   {
     "id": "cina2026",
     "slug": "cina-tour",
     "title": "Cina Classica",
     "subtitle": "Pechino, Xi’an e Shanghai",
     "image": "/images/tours/cina.webp",
-    "alt": "qualcosa", 
+    "alt": "qualcosa",
     "dates": [
       {
         "date": "2026-09-10",
         "statusHistory": [
-          { "status": "open", "at": "2026-04-01" }
+          {
+            "status": "open",
+            "at": "2026-04-01"
+          }
         ]
       },
-        {
+      {
         "date": "2026-09-17",
         "statusHistory": [
-          { "status": "open", "at": "2026-04-01" }
+          {
+            "status": "open",
+            "at": "2026-04-01"
+          }
         ]
       }
     ],
     "duration": "10 giorni",
     "price": 2980,
     "accompagnatore": "AMS Staff",
-    "category": ["internazionale", "viaggio-di-gruppo"],
-    "countries": ["Cina"],
+    "category": [
+      "internazionale",
+      "viaggio-di-gruppo"
+    ],
+    "countries": [
+      "Cina"
+    ],
     "area": "Asia",
     "shortDescription": "Un viaggio tra storia millenaria e modernità.",
     "longDescription": "La Grande Muraglia, la Città Proibita, l’Esercito di Terracotta e la skyline di Shanghai.",
     "fullDescription": "Un itinerario che attraversa alcune delle città più emblematiche della Cina, tra monumenti millenari e metropoli futuristiche. Ogni giornata offre un equilibrio tra cultura, storia e modernità, con visite guidate e momenti di scoperta personale. Un viaggio ideale per chi vuole immergersi nella ricchezza e nella varietà del paese.",
     "link": "/packages/cina"
+  },
+  {
+    "id": "liguria-costa-azzurra-2026",
+    "slug": "liguria-costa-azzurra",
+    "title": "Liguria & Costa Azzurra",
+    "subtitle": "Tra borghi italiani e charme francese",
+    "image": "/images/tours/liguria-costa-azzurra.jpg",
+    "alt": "qualcosa",
+    "dates": [
+      {
+        "date": "2026-09-12",
+        "statusHistory": [
+          {
+            "status": "open",
+            "at": "2026-03-20"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-03",
+        "statusHistory": [
+          {
+            "status": "open",
+            "at": "2026-03-20"
+          }
+        ]
+      }
+    ],
+    "duration": "4 giorni",
+    "price": 890,
+    "accompagnatore": "AMS Staff",
+    "category": [
+      "viaggio-di-gruppo"
+    ],
+    "countries": [
+      "Italia",
+      "Francia"
+    ],
+    "area": "Liguria–Costa Azzurra",
+    "shortDescription": "Un tour tra le perle della Riviera Ligure e il fascino della Costa Azzurra.",
+    "longDescription": "Da Sanremo a Mentone, passando per Nizza e Villefranche-sur-Mer, tra borghi eleganti, mare cristallino e atmosfere mediterranee.",
+    "fullDescription": "Un itinerario che unisce la bellezza della Riviera Ligure con il glamour della Costa Azzurra. Il viaggio alterna visite guidate, panorami costieri e momenti di relax tra borghi pittoreschi e città iconiche del sud della Francia. Perfetto per chi cerca un’esperienza culturale e paesaggistica senza allontanarsi troppo dall’Italia.",
+    "link": "/packages/liguria-costa-azzurra"
   }
 ]
