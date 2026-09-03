@@ -4,7 +4,7 @@
     "slug": "slovenia-tour",
     "title": "Slovenia Autunnale",
     "subtitle": "Tour di gruppo nelle Alpi Giulie",
-    "image": "/images/tours/slovenia-e-laghi-turchesi-1024x576.webp",
+    "image": "/images/tours/slovenia-e-laghi-turchesi.webp",
     "alt": "qualcosa",
     "dates": [
       {
@@ -28,7 +28,7 @@
     ],
     "duration": "6 giorni",
     "price": 1680,
-    "accompagnatore": "Franco",
+    "accompagnatore": "Frank",
     "category": [
       "internazionale",
       "viaggio-di-gruppo"
@@ -42,14 +42,14 @@
     "shortDescription": "Un'avventura fiabesca tra Slovenia, Austria e Italia, nel cuore delle Alpi Giulie.",
     "longDescription": "Un'avventura fiabesca tra Slovenia, Austria e Italia, nel cuore pulsante delle Alpi Giulie: dalla vivace Lubiana ai laghi alpini di Bohinj e Fusine.",
     "fullDescription": "Un viaggio che attraversa tre paesi e tre paesaggi completamente diversi, dalle città eleganti alle vallate alpine più remote. Ogni giornata alterna natura, cultura e panorami spettacolari, con ritmi equilibrati e tappe selezionate per godersi ogni luogo. Un tour ideale per chi cerca un’esperienza completa, immersiva e ben organizzata.",
-    "link": "https://www.amsitaly.com/packages/slovenia"
+    "link": "https://www.example.com/packages/slovenia"
   },
   {
     "id": "cedrino2026",
     "slug": "escursione-cedrino",
     "title": "Escursione sul Cedrino",
     "subtitle": "Giornata in barca",
-    "image": "/images/tours/CEDRINO-4-768x1024.webp",
+    "image": "/images/tours/cedrino.webp",
     "alt": "qualcosa",
     "dates": [
       {
@@ -90,7 +90,7 @@
     ],
     "duration": "1 giorno",
     "price": 65,
-    "accompagnatore": "Franco",
+    "accompagnatore": "Frank",
     "category": [
       "escursione-locale"
     ],
@@ -108,7 +108,7 @@
     "slug": "corsica-tour",
     "title": "Mini Tour Corsica",
     "subtitle": "3 giorni tra mare e borghi",
-    "image": "/images/tours/corsica-8004248_1280.jpg",
+    "image": "/images/tours/corsica.jpg",
     "alt": "qualcosa",
     "dates": [
       {
@@ -149,7 +149,7 @@
     ],
     "duration": "3 giorni",
     "price": 540,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "sardegna-corsica"
     ],
@@ -191,7 +191,7 @@
     ],
     "duration": "3 giorni",
     "price": 480,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "viaggio-di-gruppo"
     ],
@@ -209,7 +209,7 @@
     "slug": "toscana-tour",
     "title": "Toscana Classica",
     "subtitle": "Arte e colline",
-    "image": "/images/tours/Chianti.jpg",
+    "image": "/images/tours/chianti.jpg",
     "alt": "qualcosa",
     "dates": [
       {
@@ -224,7 +224,7 @@
     ],
     "duration": "4 giorni",
     "price": 720,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "viaggio-di-gruppo"
     ],
@@ -246,7 +246,7 @@
     "alt": "qualcosa",
     "dates": [
       {
-        "date": "2026-09-04",
+        "date": "2026-09-03",
         "statusHistory": [
           {
             "status": "open",
@@ -257,7 +257,7 @@
     ],
     "duration": "1 giorno",
     "price": 95,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "escursione-locale"
     ],
@@ -275,7 +275,7 @@
     "slug": "sardegna-corsica-mini",
     "title": "Sardegna & Corsica Mini Tour",
     "subtitle": "2 giorni tra due isole",
-    "image": "/images/tours/corsica-8004248_1280.jpg",
+    "image": "/images/tours/corsica.jpg",
     "alt": "qualcosa",
     "dates": [
       {
@@ -290,7 +290,7 @@
     ],
     "duration": "2 giorni",
     "price": 260,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "escursione-locale",
       "sardegna-corsica"
@@ -325,7 +325,7 @@
     ],
     "duration": "1 giorno",
     "price": 80,
-    "accompagnatore": "Franco",
+    "accompagnatore": "Frank",
     "category": [
       "escursione-locale"
     ],
@@ -358,7 +358,7 @@
     ],
     "duration": "9 giorni",
     "price": 2480,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "internazionale",
       "viaggio-di-gruppo"
@@ -401,7 +401,7 @@
     ],
     "duration": "10 giorni",
     "price": 2980,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "internazionale",
       "viaggio-di-gruppo"
@@ -444,7 +444,7 @@
     ],
     "duration": "4 giorni",
     "price": 890,
-    "accompagnatore": "AMS Staff",
+    "accompagnatore": "AEV Staff",
     "category": [
       "viaggio-di-gruppo"
     ],
