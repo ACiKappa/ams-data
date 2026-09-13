@@ -17,7 +17,7 @@
         ]
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-09-20",
         "statusHistory": [
           {
             "status": "open",
@@ -42,7 +42,8 @@
     "shortDescription": "Un'avventura fiabesca tra Slovenia, Austria e Italia, nel cuore delle Alpi Giulie.",
     "longDescription": "Un'avventura fiabesca tra Slovenia, Austria e Italia, nel cuore pulsante delle Alpi Giulie: dalla vivace Lubiana ai laghi alpini di Bohinj e Fusine.",
     "fullDescription": "Un viaggio che attraversa tre paesi e tre paesaggi completamente diversi, dalle città eleganti alle vallate alpine più remote. Ogni giornata alterna natura, cultura e panorami spettacolari, con ritmi equilibrati e tappe selezionate per godersi ogni luogo. Un tour ideale per chi cerca un’esperienza completa, immersiva e ben organizzata.",
-    "link": "https://www.example.com/packages/slovenia"
+    "link": "https://www.example.com/packages/slovenia",
+    "officialUrl": "/slovenia2026"
   },
   {
     "id": "cedrino2026",
