@@ -54,7 +54,7 @@
     "alt": "placeholder altri contenuti",
     "dates": [
       {
-        "date": "2026-07-25",
+        "date": "2026-10-02",
         "statusHistory": [
           {
             "status": "open",
@@ -62,12 +62,12 @@
           },
           {
             "status": "soldOut",
-            "at": "2026-06-20"
+            "at": "2026-09-16"
           }
         ]
       },
       {
-        "date": "2026-08-26",
+        "date": "2026-09-30",
         "statusHistory": [
           {
             "status": "open",
@@ -75,7 +75,7 @@
           },
           {
             "status": "soldOut",
-            "at": "2026-06-20"
+            "at": "2026-09-16"
           }
         ]
       },
@@ -113,7 +113,7 @@
     "alt": "placeholder altri contenuti",
     "dates": [
       {
-        "date": "2026-09-22",
+        "date": "2026-09-30",
         "statusHistory": [
           {
             "status": "open",
@@ -121,7 +121,7 @@
           },
           {
             "status": "soldOut",
-            "at": "2026-08-19"
+            "at": "2026-09-15"
           }
         ]
       },
@@ -143,7 +143,7 @@
           },
           {
             "status": "cancelled",
-            "at": "2026-08-19"
+            "at": "2026-09-16"
           }
         ]
       }
@@ -172,7 +172,7 @@
     "alt": "placeholder altri contenuti",
     "dates": [
       {
-        "date": "2026-07-22",
+        "date": "2026-09-28",
         "statusHistory": [
           {
             "status": "open",
@@ -214,7 +214,7 @@
     "alt": "placeholder altri contenuti",
     "dates": [
       {
-        "date": "2026-08-15",
+        "date": "2026-10-15",
         "statusHistory": [
           {
             "status": "open",
@@ -247,7 +247,7 @@
     "alt": "placeholder altri contenuti",
     "dates": [
       {
-        "date": "2026-09-03",
+        "date": "2026-10-03",
         "statusHistory": [
           {
             "status": "open",
@@ -280,7 +280,7 @@
     "alt": "placeholder altri contenuti",
     "dates": [
       {
-        "date": "2026-08-28",
+        "date": "2026-10-02",
         "statusHistory": [
           {
             "status": "open",
